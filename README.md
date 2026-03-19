@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# BookShoppingCartMvc (A basic e-comm system for beginners)📚🛒
-
-It is a source code of the youtube tutorial on [Build a Full E-commerce Application Using .NET Core 10, SQL Server 2025, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway. A ⭐ in repository is highly appreciated, helps to promote my content.
+Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway. A ⭐ in repository is highly appreciated, helps to promote my content.
 
 📢 Initially , this project was built with `.net 7` and `sql server 2022`. But it is `Upgraded to .net 10.0` and `sql server 2025` and I will try to keep it up to date.
 
@@ -20,10 +17,6 @@ It is a source code of the youtube tutorial on [Build a Full E-commerce Applicat
 - Instead of manually installing `sql server`, you can also used `sql server` which is spun up in `docker`.
 
 **Note:** Every tool and tech is free for personal use. 
-
-## Video tutorial 📺
-
-[Build a Full E-commerce Application Using .NET Core 10, SQL Server, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go)
 
 ## How to run the project?🌐
 
@@ -51,7 +44,7 @@ Now, you can follow these steps:
 1. Open the command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
 
 ```bash
-git clone https://github.com/rd003/BookShoppingCart-Mvc
+git clone https://github.com/gauravblog-art/BookShoppingCart-MVC.git
 ```
 
 2. Go to the directory where you have cloned this project, open the directory `BookShoppingCart-Mvc`. You will find a file with name `BookShoppingCartMvc.sln`. Double click on this file and this project will be opened in Visual Studio.
@@ -178,17 +171,5 @@ password: Admin@123
 
 If you find this repository useful, then consider to leave a ⭐.
 
-Connect with me
-
-👉 YouTube: <https://youtube.com/@ravindradevrani>
-
-👉 Twitter: <https://twitter.com/ravi_devrani>
-
-Become a supporter ❣️:
-You can buy me a coffee 🍵 : <https://www.buymeacoffee.com/ravindradevrani>
 
 Thanks a lot 🙂🙂
-=======
-# BookShoppingCart-MVC
-BookShoppingCartMvc 
->>>>>>> 761ab0a00873cb39296cb1347bbd7132c42d4bb1
